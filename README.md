@@ -1,3 +1,1 @@
-Title: Development of an Online Food Ordering and Delivery Platform 
-
-This project focuses on creating an Online Food Ordering and Delivery Platform integrated with a Restaurant Management System. Using advanced web technologies, the platform provides seamless browsing, real-time order tracking, and a custom chatbot for instant assistance. It supports multiple payment methods, including Stripe and Cash on Delivery, to enhance user convenience. The system aims to streamline restaurant operations, improve customer service, and offer a responsive, user-friendly experience across devices. This solution is designed to contribute to the digital transformation of the food industry.
+Online Food Ordering and Delivery WebApp Frontend Images 
